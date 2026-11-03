@@ -1,6 +1,5 @@
-> 飞书原文：[XUWfwHqp8i1I67kMMf8cg5nInKc](https://my.feishu.cn/wiki/XUWfwHqp8i1I67kMMf8cg5nInKc) · 静态站：[GitHub Pages](https://blockpanda.github.io/chatgpt-subscribe-guide/) · 优惠开通：[ProdClub / 2RPK84](https://prodclub.xyz/r/2RPK84)
+> 静态站：[GitHub Pages](https://blockpanda.github.io/chatgpt-subscribe-guide/) · 优惠开通：[ProdClub / 2RPK84](https://prodclub.xyz/r/2RPK84)
 
-<!-- 飞书原文归档：https://my.feishu.cn/wiki/XUWfwHqp8i1I67kMMf8cg5nInKc -->
 
 # 「全流程跑通」支付宝/微信开通 GPT Plus/Pro ！
 
