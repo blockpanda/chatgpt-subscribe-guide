@@ -18,9 +18,9 @@
 
 ## 第二步：开通
 
-#### 打开专属优惠链接，注意使用优惠码 UKASP7
+#### 打开专属优惠链接，注意使用优惠码 2RPK84
 
-https://prodclub.xyz/r/UKASP7
+https://prodclub.xyz/r/2RPK84
 
 打开后，你看到的是这个界面就对了
 
