@@ -30,7 +30,7 @@ https://bajie.la/register?aff=zoAjO1nu
 
 https://prodclub.xyz/r/2RPK84
 
-打开后，你看到的是这个界面就对了
+打开后，你看到的是这个界面就对了「注意：升级我们是能给你退差价的，一定要联系客服」
 
 ![](original-assets/IossbhVY2otqINxGaZScRD6InRh.jpg)
 
