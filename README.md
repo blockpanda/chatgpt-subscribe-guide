@@ -1,5 +1,3 @@
-> **已迁移**：ProdClub 品牌教程请看新仓库 → [blockpanda/prodclub](https://github.com/blockpanda/prodclub) · 静态站 [GitHub Pages](https://blockpanda.github.io/prodclub/)
-
 > 静态站：[GitHub Pages](https://blockpanda.github.io/chatgpt-subscribe-guide/) · 优惠开通：[ProdClub / 2RPK84](https://prodclub.xyz/r/2RPK84)
 
 
