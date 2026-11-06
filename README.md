@@ -32,6 +32,16 @@ ProdClub 想做的事很简单：
 
 
 
+## 视频教程
+
+约 1.5 分钟，先看一遍再对照下面的图文。
+
+[![Prodclub-无海外卡订阅 GPT Plus教程](videos/bilibili-cover.jpg)](https://www.bilibili.com/video/BV1qH456BEtc)
+
+[Prodclub-无海外卡订阅 GPT Plus教程 - 哔哩哔哩](https://www.bilibili.com/video/BV1qH456BEtc)
+
+## 图文教程
+
 **废话不多说，教程开始**
 
 ## 第一步：准备资料
