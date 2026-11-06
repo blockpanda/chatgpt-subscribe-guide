@@ -1,5 +1,26 @@
-> 静态站：[GitHub Pages](https://blockpanda.github.io/chatgpt-subscribe-guide/) · 优惠开通：[ProdClub / 2RPK84](https://prodclub.xyz/r/2RPK84)
+<p align="center">
+  <img src="logo.png" width="64" />
+</p>
 
+<h1 align="center">ProdClub</h1>
+
+<p align="center">让每一笔 AI 资源交易，都更直接、透明、可信。</p>
+
+<p align="center"><i>愿有一天，信息不再有围墙，知识不再有距离。</i></p>
+
+---
+
+最好的 AI 已经来了，但很多人被挡在一张信用卡外面。
+
+ProdClub 想做的事很简单：
+把这道墙拆掉，让你用支付宝 / 微信，把 ChatGPT 会员开到**自己的账号**上。
+
+不卖号，不合租，不做没法质保的生意。
+只把一件小事，做到足够好。
+
+**ProdClub：做产品的人做的代充。只接能质保的单，开通进度实时可见，没开通随时退。**
+
+> 静态站：[GitHub Pages](https://blockpanda.github.io/chatgpt-subscribe-guide/) · 优惠开通：[ProdClub / 2RPK84](https://prodclub.xyz/r/2RPK84)
 
 # 「全流程跑通」支付宝/微信开通 GPT Plus/Pro ！
 
