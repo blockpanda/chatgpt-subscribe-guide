@@ -20,6 +20,8 @@ ProdClub 想做的事很简单：
 
 **ProdClub：做产品的人做的代充。只接能质保的单，开通进度实时可见，没开通随时退。**
 
+**我们承诺：全程质保，升级退差价，服务全流程。**
+
 > 静态站：[GitHub Pages](https://blockpanda.github.io/chatgpt-subscribe-guide/) · 优惠开通：[ProdClub / 2RPK84](https://prodclub.xyz/r/2RPK84)
 
 # 「全流程跑通」支付宝/微信开通 GPT Plus/Pro ！
