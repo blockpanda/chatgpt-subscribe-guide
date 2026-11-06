@@ -98,11 +98,6 @@ https://prodclub.xyz/r/2RPK84
 
 ![](original-assets/L1yQb8K3Uo3Nw5xe9kDcXVBenHf.jpg)
 
-## 答疑：
-
-如果你有其他疑问可以直接去帮助查看
-
-![](original-assets/YvGHbMFxkojtItxFh1ucs8iAnIb.jpg)
 
 ## 重置雷达
 
@@ -182,6 +177,10 @@ Session 是你登录 ChatGPT 后浏览器里的一段登录凭据，我们用它
 4. iOS（App Store）订阅到期后苹果可能还有一段宽限期（一般 72h），这段时间账号显示免费版也开不了，要等宽限期结束。
 5. 团队 / 企业账号（Team、Business、Enterprise）：开不了个人订阅，请换个人账号。
 
+
+### 如果你还有其他疑问可以直接去帮助查看
+
+![](original-assets/YvGHbMFxkojtItxFh1ucs8iAnIb.jpg)
 
 ## 关于 ProdClub
 
