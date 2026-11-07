@@ -21,6 +21,12 @@ ProdClub 想做的事很简单：
 
 > 优惠开通：[ProdClub / 2RPK84](https://prodclub.xyz/r/2RPK84)
 
+
+<p align="center">
+  <img src="testimonials.jpg" alt="客户真实评价：ProdClub UI 做得特别好、流程丝滑、比代充更专业" width="100%" />
+</p>
+
+
 # 「全流程跑通」支付宝/微信开通 GPT Plus/Pro ！
 
 ## 视频教程
