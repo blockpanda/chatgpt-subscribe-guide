@@ -49,7 +49,7 @@ https://bajie.la/register?aff=zoAjO1nu
 
 ## 第二步：开通
 
-#### 打开专属优惠链接，注意使用优惠码 2RPK84
+#### 打开专属优惠链接，注意使用优惠码 2RPK84 「遇到问题请直接联系客服微信：_0xpanda 备注GPT 他们会辅助你解决问题」
 
 https://prodclub.xyz/r/2RPK84
 
