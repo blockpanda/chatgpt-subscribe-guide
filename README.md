@@ -49,11 +49,13 @@ https://bajie.la/register?aff=zoAjO1nu
 
 ## 第二步：开通
 
-#### 打开专属优惠链接，注意使用优惠码 2RPK84 「遇到问题请直接联系客服微信：_0xpanda 备注GPT 他们会辅助你解决问题」
+#### 打开专属优惠链接，注意使用优惠码 2RPK84 (永久有效） 
 
 https://prodclub.xyz/r/2RPK84
 
-打开后，你看到的是这个界面就对了「注意：升级我们是能给你退差价的，一定要联系客服」
+#### 「有任何问题请直接联系客服，微信：_0xpanda 备注GPT 他们会辅助你解决问题」
+
+打开后，你看到的是这个界面就对了「注意：升级是可以给你退差价的，一定要联系客服」
 
 ![](original-assets/IossbhVY2otqINxGaZScRD6InRh.jpg)
 
